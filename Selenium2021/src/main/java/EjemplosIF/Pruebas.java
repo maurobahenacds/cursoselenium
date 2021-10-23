@@ -1,4 +1,4 @@
-package selenium;
+package EjemplosIF;
 
 public class Pruebas {
 
